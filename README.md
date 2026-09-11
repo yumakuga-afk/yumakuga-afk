@@ -27,7 +27,7 @@ _I build systems that simulate, optimize, and perform._
 ## ▍Tech
 
 **Languages**  
-C# · Java · Python · C/C++ · JavaScript  
+C# · Java · Python · C/C++ · JavaScript · HTML5 
 
 **Tools**  
 Unity · OpenGL · .NET · Node.js · SQL · Git  
